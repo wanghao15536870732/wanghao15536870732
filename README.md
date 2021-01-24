@@ -5,7 +5,7 @@
 ### Hi there,I'm haoWang 👋
 
 - 🔭 I’m currently working on crop disease identification
-- 🌱 I’m currently learning Pytorch
+- 🌱 I’m currently learning machine learning
 - 😄 I am very interested in Android development
   
- 
+
