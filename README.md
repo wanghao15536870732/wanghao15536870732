@@ -1,5 +1,5 @@
 - 😄 Graduate student.
-- 💻 I focus on face recognition.
+- 💻 I focus on remote sensing semantic segmentation.
 
   
 
